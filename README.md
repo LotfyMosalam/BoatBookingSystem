@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a **Boat and Trip Booking System** developed as part of the **Apps Square technical evaluation**.
+This project is a **Boat and Trip Booking System** developed.
 It is built using **.NET 9** and follows **Clean Architecture**, **CQRS**, and modern backend best practices.
 
 The system supports three user roles:
