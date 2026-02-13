@@ -22,7 +22,6 @@ The system supports three user roles:
 * MediatR (CQRS)
 * JWT Authentication
 * Serilog Logging
-* FluentValidation
 * Swagger (OpenAPI)
 
 ---
