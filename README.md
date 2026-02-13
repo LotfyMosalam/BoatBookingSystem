@@ -227,7 +227,6 @@ Logs/log-<date>.txt
 
 ## Validation
 
-* Implemented using **FluentValidation**
 * Automatically triggered via MediatR pipeline
 * Returns structured validation errors
 
@@ -267,7 +266,7 @@ Role: Owner
 ### Admin Approval
 
 ```
-POST /api/admin/approve-user/{userId}
+POST /api/admin/approve-user/{Id}
 ```
 
 ### Owner Creates Boat
@@ -288,7 +287,6 @@ POST /api/customer/book-trip
 
 * All write operations use **CQRS commands**
 * All read operations use **CQRS queries**
-* User IDs are extracted from JWT tokens (not request body)
 
 ---
 
