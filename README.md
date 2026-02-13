@@ -189,8 +189,8 @@ https://localhost:<port>/swagger
 The system seeds a default admin user:
 
 ```
-Email: admin@system.com
-Password: Admin123!
+Email: lotfy@gmail.com
+Password: lotfy
 Role: Admin
 ```
 
