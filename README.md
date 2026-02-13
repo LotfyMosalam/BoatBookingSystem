@@ -295,12 +295,13 @@ POST /api/customer/book-trip
 **Lotfy Abdalla Mosalam**
 Full Stack Developer (.NET & Angular)
 
-
+----------------------------------------------------------------------------------------------------------------------------------
 Swagger UI demonstrating API endpoints and authentication flow.
 
 <img width="976" height="879" alt="image" src="https://github.com/user-attachments/assets/2b924496-e161-4bbf-b257-8ea0babfa2d4" />
 
 
+----------------------------------------------------------------------------------------------------------------------------------
 Entity-Relationship diagram of the Boat & Trip Booking System database.
 
 <img width="776" height="776" alt="image" src="https://github.com/user-attachments/assets/e8e9a0d9-dfa5-43d0-9a59-b30bd79fd21d" />
